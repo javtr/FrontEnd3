@@ -14,15 +14,3 @@ ReactDOM.render(
     document.getElementById("root")
 )
 
-
-
-// function peliculas() {
-//   const pelicula = lista.map (item => 
-//     React.createElement('li', {key: item} , item)
-//   )
-//   return React.createElement('ul', null, pelicula);
-// }
-
-// ReactDOM.render(
-//   React.createElement(peliculas, null, null ), document.getElementById("root")
-//   )
